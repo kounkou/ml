@@ -11,5 +11,5 @@ ml class at the University of British Columbia
 [map](https://www.probabilitycourse.com/chapter9/9_1_2_MAP_estimation.php)
 
 ##### basics
-[basics of machine learning](https://leetcode.com/explore/learn/card/machine-learning-101/287/what_is_ml/1617/)
+[basics of machine learning](https://leetcode.com/explore/learn/card/machine-learning-101/287/what_is_ml/1617/)\
 [machine learning algorithm](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) 
