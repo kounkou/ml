@@ -12,3 +12,4 @@ ml class at the University of British Columbia
 
 ##### basics
 [basics of machine learning](https://leetcode.com/explore/learn/card/machine-learning-101/287/what_is_ml/1617/)
+[machine learning algorithm](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) 
