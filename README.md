@@ -17,12 +17,16 @@ ml class at the University of British Columbia
 
 ##### algorithms
 
-##### kNN algorithm
-kNN is the easiest machine learning algorithm. It's a classification algorithm.
-The way kNN works is by computing the Euclidian distance between the item 
-we're trying to classify with the rest of the items. And by taking the most represented
-items from the list of k items.
-However, kNN number of computations explodes with the data used.
+##### k-Nearest Neighbors
 
-##### k-d Tree
+Pros: High accuracy, insensitive to outliers, no assumptions about data
+Cons: Computationally expensive, requires a lot of memory
+Works with: Numeric values, nominal values
+
+##### Decision trees
+
+Pros: Computationally cheap to use, easy for humans to understand learned results,
+missing values OK, can deal with irrelevant features
+Cons: Prone to overfitting
+Works with: Numeric values, nominal values
 
