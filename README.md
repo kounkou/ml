@@ -20,6 +20,7 @@ ml class at the University of British Columbia
 ##### k-Nearest Neighbors
 
 Pros: High accuracy, insensitive to outliers, no assumptions about data
+
 Cons: Computationally expensive, requires a lot of memory
 Works with: Numeric values, nominal values
 
@@ -27,6 +28,7 @@ Works with: Numeric values, nominal values
 
 Pros: Computationally cheap to use, easy for humans to understand learned results,
 missing values OK, can deal with irrelevant features
+
 Cons: Prone to overfitting
 Works with: Numeric values, nominal values
 
