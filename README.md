@@ -27,7 +27,8 @@ Works with: Numeric values, nominal values
 ##### Decision trees
 
 Pros: Computationally cheap to use, easy for humans to understand learned results,
-missing values OK, can deal with irrelevant features
+missing values OK, can deal with irrelevant features. 
+The machine learning appears in how the decision tree is built
 
 Cons: Prone to overfitting
 Works with: Numeric values, nominal values
