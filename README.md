@@ -35,3 +35,10 @@ the application. Then that training set can be used to classify the data that we
 Cons: Prone to overfitting
 Works with: Numeric values, nominal values
 
+##### Naive Bayes
+
+Bayes rule :
+
+P(c,x) = P(x, c) P(c) / P(x)
+
+for a N features problem, we need N^10 samples
