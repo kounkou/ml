@@ -29,6 +29,8 @@ Works with: Numeric values, nominal values
 Pros: Computationally cheap to use, easy for humans to understand learned results,
 missing values OK, can deal with irrelevant features. 
 The machine learning appears in how the decision tree is built
+The learning database can be a Tree saved as a text file. That data represents the learning base of
+the application. Then that training set can be used to classify the data that we want.
 
 Cons: Prone to overfitting
 Works with: Numeric values, nominal values
