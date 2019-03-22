@@ -20,8 +20,8 @@ ml class at the University of British Columbia
 ##### Linear Algebra library for C++ developers
 
 Most Machine learning students use Python to 'learn' machine learning, and Artificial Intelligence in
-general. The truth is, Python doesn't look like a build a deep understanding of the nature of
-data structures and algorithms used. I am using C++ instead (Find your Java library if you're a Java developer)
+general. The truth is, Python doesn't look like a perfect language to enable a deep understanding of the nature of
+data structures and algorithms used in this field. I am using C++ instead (Find your Java library if you're a Java developer)
 
 http://arma.sourceforge.net/docs.html#eye_standalone
 
