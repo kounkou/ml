@@ -55,3 +55,9 @@ for a N features problem, we need N^10 samples
 ##### logistic regression
 
 Another classification method using a function approximation.
+
+##### Support vector machines
+
+Pros: Low generalization error, computationally inexpensive, easy to interpret results
+Cons: Sensitive to tuning parameters and kernel choice; natively only handles binary classification
+Works with: Numeric values, nominal values
